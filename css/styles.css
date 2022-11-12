@@ -1,0 +1,138 @@
+#title{
+    background-color: #ff4c68;
+    color: white;
+    height: 33rem
+
+}
+h1{
+    font-family: 'Montserrat';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;
+}
+.container-fluid{
+    padding: 3rem 15%;
+}
+body{
+    font-family: 'Montserrat';
+}
+.nav-brand{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.navbar-item{
+    padding: 0 1.5rem;
+}
+.nav-link{
+    font-size: 1.3rem;
+    font-weight: light;
+
+}
+.fa-regular,.fa-solid{
+    color: #ef8172;
+    font-size: 6rem;
+    margin: 0 0 5%;
+    
+    
+}
+.sax{
+    color: #8f8f8f;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.h9{
+    line-height: 1.5rem;
+    font-family: "montserrat";font-weight:bold;
+    text-align: center;
+}
+.fa-regular:hover{
+    color: #ff4c68;
+}
+.fa-solid:hover{
+    color: #ff4c68;
+}
+#features>i{
+    margin: 0 auto;
+}
+#features{
+    text-align: center;
+    padding: 8% 0;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
+}
+#iphone{
+    transform: rotate(25deg);
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: bold;
+    line-height: 1.5;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 4%;
+}
+.press-logo{
+    width: 20%;
+    margin: 0 20px 30px;
+    padding-top: 1rem;
+}
+.carousel-item{
+    height: 400px;
+    padding: 3rem 15%;
+}
+.price-card{
+    padding: 2rem 0;
+}
+#pricing{
+    margin-top: 3rem;
+    
+}
+.card-body{
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0; 
+}
+@media (max-width:1000px) {
+
+#title{
+    text-align:center;
+    height: 77rem
+}
+#iphone{
+    padding-top: 2rem;
+    transform: rotate(0deg);
+}
+#cta{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
+    
+}
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding-top: 2rem;
+}
+    
+#footer{
+    padding-top: 1rem;
+    text-align: center;
+    color: #fff;
+    background-color: #ff4c68;
+    font-size: 1.2rem;
+    margin:0;
+    padding-bottom:1rem ;
+}
